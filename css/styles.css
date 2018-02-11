@@ -5,6 +5,17 @@ img {
 }
 h1 {
   font-weight: bold;
-  font-family: cursive;
+  font-family: monospace;
   text-align: left;
+}
+.jumbotron{
+  padding-right: 15px;
+  padding-left: : 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.box{
+border: 5px solid red;
+padding: 6px;
+margin: 20px;
 }
