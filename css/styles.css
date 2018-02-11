@@ -3,6 +3,11 @@ img {
   width: 25%;
   height: 20%;
 }
+body {
+  background-color: #E6E6FA
+  background-image: url("web-development.jpg");
+  background-repeat: repeat-x;
+}
 h1 {
   font-weight: bold;
   font-family: monospace;
@@ -15,7 +20,9 @@ h1 {
   margin-left: auto;
 }
 .box{
+text-align: center;
 border: 5px solid red;
+column-fill: balance;
 padding: 6px;
 margin: 20px;
 }
