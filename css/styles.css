@@ -29,3 +29,9 @@ margin: 20px;
 .dream {
   background-color: yellow;
 }
+.well {
+margin-left: 15px;
+margin-right: 15px;
+padding-left: 20px;
+padding-right: 20px;
+}
