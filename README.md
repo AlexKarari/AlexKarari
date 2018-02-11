@@ -8,8 +8,15 @@
 * 8 GB RAM
 * OS: UBUNTU, WINDOWS 8 and above.
 * Installation process:
+Download Ubuntu.
+Check if Your Computer will Boot from USB.
+Make BIOS Changes.
+Try Ubuntu Before you Install It.
+Create Bootable USB.
+Install Ubuntu.
+Create a username, password, and computer name. You will login with this user id after the installation is complete.
 * format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+{Install Google Chrome web browser to run your website.}
 ## Known Bugs
 {No known bugs have been reported yet.}
 ## Technologies Used
